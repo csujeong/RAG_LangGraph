@@ -20,7 +20,7 @@ python -m ipykernel install --user --name=crewai
 
 - api키를 저장 후 .env파일을 만들어서 디렉토리에 보관하세요
 
-- 1차 [내가 직접 만드는 AGI, Crew AI를 활용해서 Multi Agent를 만들어봐요 (24년 5월)
+- 내가 직접 만드는 AGI, Crew AI를 활용해서 Multi Agent를 만들어봐요 (24년 5~6월)
     - 1. [Intro](https://github.com/jeong-wooseok/AIdoingai/blob/main/1%EA%B0%95/Create%20Agents%20to%20Research%20and%20Write%20an%20Article_jeong.ipynb)  &&  [Youtube](https://youtu.be/QKjNmGM_LFw?si=lBYAkc0bOtpLIbYM)
     - 2. [QA 통해서 답변의 퀄러티를 높이고, Tool을 활용하여 인터넷검색까지?](https://github.com/jeong-wooseok/AIdoingai/blob/main/CrewAI2_%EB%82%98%EB%A7%8C%EC%9D%98Agent%EB%A7%8C%EB%93%A4%EA%B8%B0/2%EA%B0%95_jeong.ipynb) &&  [Youtube](https://www.youtube.com/watch?v=Lv2ScMY6JWA)
     - 3. [CrewAI 실전프로젝트, 직접 Tool을 만들어서 넣어봐요. 제휴이메일을 써주는 Multi-Agent](https://github.com/jeong-wooseok/AIdoingai/blob/main/CrewAI3_%EC%97%85%EB%AC%B4%EC%A0%9C%ED%9C%B4%EC%9D%B4%EB%A9%94%EC%9D%BCAgent/3%EA%B0%95_jeong.ipynb) &&  [Youtube](https://www.youtube.com/watch?v=QCr2a8qmVtE)
@@ -31,7 +31,8 @@ python -m ipykernel install --user --name=crewai
       3. 투자 참고용 데이터 수집
       4. 포트폴리오 구성, 백테스트
       5. 증권사 API 연결과 매매하기
-- 2차 Langchain, Langgraph를 이용한 나만의 채팅서비스 구축 (24년 9월)
+- 2차 Langchain, Langgraph를 이용한 나만의 채팅서비스 구축 (24년 8~9월)
     - 1. Intro / Model IO / Format / Retriever 과 친해지기
-    - 2. Memory / Chain을 이용하여 채팅서비스 구성해보기 (Chainlit)
+    - 2. Langgraph 친해지기 : 실습과제 진행
+    - 2. Memory / Chain을 이용하여 채팅서비스 구성해보기 (Chainlit, streamlit)
     - 3. 건강한 몸을 되찾기위한 30일 작전, 식단관리 대시보드
