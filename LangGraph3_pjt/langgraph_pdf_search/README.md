@@ -15,13 +15,13 @@ markdownCopy# LangGraph PDF 검색 및 웹 검색 애플리케이션
 
 1. 저장소를 클론합니다:
 ```powershall
-git clone https://github.com/yourusername/langgraph-pdf-search.git
-cd langgraph-pdf-search
+git clone https://github.com/jeong-wooseok/AIdoingai
+cd AIdoingai/LangGraph3_pjt/langgraph_pdf_search
 ```
 2. 가상 환경을 생성하고 활성화합니다:
 ```powershall
-python -m venv venv
-source venv/bin/activate  # Windows의 경우: venv\Scripts\activate
+conda create -n langgraph python=3.10
+conda activate langgraph
 ```
 3. 필요한 패키지를 설치합니다:
 ```powershall
